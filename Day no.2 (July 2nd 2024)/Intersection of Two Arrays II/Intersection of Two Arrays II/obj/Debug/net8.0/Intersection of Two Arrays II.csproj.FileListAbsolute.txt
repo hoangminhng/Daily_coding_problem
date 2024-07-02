@@ -3,3 +3,13 @@ C:\Code\Daily_coding_problem\Day no.2 (July 2nd 2024)\Intersection of Two Arrays
 C:\Code\Daily_coding_problem\Day no.2 (July 2nd 2024)\Intersection of Two Arrays II\Intersection of Two Arrays II\obj\Debug\net8.0\Intersection of Two Arrays II.AssemblyInfo.cs
 C:\Code\Daily_coding_problem\Day no.2 (July 2nd 2024)\Intersection of Two Arrays II\Intersection of Two Arrays II\obj\Debug\net8.0\Intersection of Two Arrays II.csproj.CoreCompileInputs.cache
 C:\Code\Daily_coding_problem\Day no.2 (July 2nd 2024)\Intersection of Two Arrays II\Intersection of Two Arrays II\obj\Debug\net8.0\Intersection of Two Arrays II.sourcelink.json
+C:\Code\Daily_coding_problem\Day no.2 (July 2nd 2024)\Intersection of Two Arrays II\Intersection of Two Arrays II\bin\Debug\net8.0\Intersection of Two Arrays II.exe
+C:\Code\Daily_coding_problem\Day no.2 (July 2nd 2024)\Intersection of Two Arrays II\Intersection of Two Arrays II\bin\Debug\net8.0\Intersection of Two Arrays II.deps.json
+C:\Code\Daily_coding_problem\Day no.2 (July 2nd 2024)\Intersection of Two Arrays II\Intersection of Two Arrays II\bin\Debug\net8.0\Intersection of Two Arrays II.runtimeconfig.json
+C:\Code\Daily_coding_problem\Day no.2 (July 2nd 2024)\Intersection of Two Arrays II\Intersection of Two Arrays II\bin\Debug\net8.0\Intersection of Two Arrays II.dll
+C:\Code\Daily_coding_problem\Day no.2 (July 2nd 2024)\Intersection of Two Arrays II\Intersection of Two Arrays II\bin\Debug\net8.0\Intersection of Two Arrays II.pdb
+C:\Code\Daily_coding_problem\Day no.2 (July 2nd 2024)\Intersection of Two Arrays II\Intersection of Two Arrays II\obj\Debug\net8.0\Intersection of Two Arrays II.dll
+C:\Code\Daily_coding_problem\Day no.2 (July 2nd 2024)\Intersection of Two Arrays II\Intersection of Two Arrays II\obj\Debug\net8.0\refint\Intersection of Two Arrays II.dll
+C:\Code\Daily_coding_problem\Day no.2 (July 2nd 2024)\Intersection of Two Arrays II\Intersection of Two Arrays II\obj\Debug\net8.0\Intersection of Two Arrays II.pdb
+C:\Code\Daily_coding_problem\Day no.2 (July 2nd 2024)\Intersection of Two Arrays II\Intersection of Two Arrays II\obj\Debug\net8.0\Intersection of Two Arrays II.genruntimeconfig.cache
+C:\Code\Daily_coding_problem\Day no.2 (July 2nd 2024)\Intersection of Two Arrays II\Intersection of Two Arrays II\obj\Debug\net8.0\ref\Intersection of Two Arrays II.dll

@@ -19,14 +19,26 @@ class Program
 {
     static void Main()
     {
+        Case1();
+        Case2();
+    }
+
+    static void Case1()
+    {
         int[] nums1 = { 1, 2, 2, 1 };
         int[] nums2 = { 2, 2 };
         int[] result = Intersect(nums1, nums2);
-        foreach (var item in result)
-        {
-            Console.Write(item + " ");
-        }
+        Console.WriteLine(string.Join(", ", result));
     }
+
+    static void Case2()
+    {
+        int[] nums1 = { 4, 9, 5 };
+        int[] nums2 = { 9, 4, 9, 8, 4 };
+        int[] result = Intersect(nums1, nums2);
+        Console.WriteLine(string.Join(", ", result));
+    }
+
     static int[] Intersect(int[] nums1, int[] nums2)
     {
         Dictionary<int, int> dict = new Dictionary<int, int>();
